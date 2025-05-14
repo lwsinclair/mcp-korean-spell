@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/winterjung-mcp-korean-spell-badge.png)](https://mseep.ai/app/winterjung-mcp-korean-spell)
+
 # mcp-korean-spell
 
 `mcp-korean-spell` is a MCP(Model Context Protocol) server designed for Korean spell checking, providing a reliable tool for writers to integrate spell checking capabilities into their documents and texts.
